@@ -1,4 +1,3 @@
-SustainityAI Chatbot
 SustainityAI Chatbot is a simple AI Chatbot with OpenAI's GPT-3.5 Turbo Language Model API utilized. It includes the function of generating responses based on user's input about sustainbility questions, along with generating customized computer notifications on possible events that users can organize based on user's responses about their personal preferences such as their favourite events.
 
 The chatbot is built using Java. It is submitted to and is the winner of "AI for Change" hackathon with 500+ participants.
