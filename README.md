@@ -2,10 +2,12 @@ SustainityAI Chatbot is a simple AI Chatbot with OpenAI's GPT-3.5 Turbo Language
 
 The chatbot is built using Java and can be run both on Windows and Mac. It is submitted to and is the winner of "AI for Change" hackathon with 500+ participants.
 
-Clone the repository: git clone https://github.com/repositor224/Sustainity.git
+To clone the repository: git clone https://github.com/repositor224/Sustainity.git
 
  under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
+
 The GPT-3.5 Turbo model is provided by OpenAI
+
 This chatbot was inspired by this project "https://github.com/kydycode/chatgpt-3.5-turbo" and iterated on using GPT-4 and Copilot
